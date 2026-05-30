@@ -5,7 +5,7 @@ This project demonstrates the design and implementation of a Hospital Management
 
 # Tools Used
 
-MySQL
+- MySQL
 
 # SQL Concepts Showcased
 
