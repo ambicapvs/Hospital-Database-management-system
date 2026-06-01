@@ -31,14 +31,15 @@ The database consists of the following tables:
 
 # Business Questions Answered
 
-- Which patients have insurance and what are their assigned doctors?
-- List all patients with their room number and building location.
-- HOw many patients are assigned for each doctor?
-- How many patients are assigned per department?
-- Which diseases are most commonly treated, and by which doctor?
-- How many visitors did each patient receive?
-- Which patients have both a doctor and a nurse in the same department?
-- Rank doctors by number of patients assigned using a window function.
-- Using a CTE, identify patients with no recorded room assignment.
-
+1.Which patients have insurance and what are their assigned doctors?
+2.List all patients with their room number and building location.
+3. HOw many patients are assigned for each doctor?
+4. How many patients are assigned per department?
+5. Which diseases are most commonly treated, and by which doctor?
+6. How many visitors did each patient receive?
+7. Which patients have both a doctor and a nurse in the same department?
+8. Rank doctors by number of patients assigned using a window function.
+9. Using a CTE, identify patients with no recorded room assignment..
+  
+# Executive summary/Business Insights
 
