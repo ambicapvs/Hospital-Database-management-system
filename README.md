@@ -31,8 +31,8 @@ The database consists of the following tables:
 
 # Business Questions Answered
 
-1.Which patients have insurance and what are their assigned doctors?
-2.List all patients with their room number and building location.
+1. Which patients have insurance and what are their assigned doctors?
+2. List all patients with their room number and building location.
 3. HOw many patients are assigned for each doctor?
 4. How many patients are assigned per department?
 5. Which diseases are most commonly treated, and by which doctor?
